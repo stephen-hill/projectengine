@@ -2,7 +2,7 @@
 
 = Friendly URL's =
 
-  * /<Page>/<Action> = /Pages/<Page>_<Action>.aspx
+  * /Page/Action = /Pages/Page_Action.aspx
 
 = Users and Permissions =
 
