@@ -29,6 +29,7 @@
   * Lookup Values
   * Public or Private
   * Enable or Disable Features
+  * Colour Coding
 
 = Multiple Projects =
 
