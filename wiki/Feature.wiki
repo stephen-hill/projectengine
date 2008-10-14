@@ -14,7 +14,10 @@
 
 = Project/Software Settings =
 
-  *
+  * Name
+  * Description
+  * Components
+  * Lookup Values
 
 = Wiki =
 
