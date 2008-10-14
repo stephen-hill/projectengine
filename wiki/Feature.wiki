@@ -11,6 +11,10 @@
   * User Registration
   * User Logout
   * User Permissions
+  * Gravatar
+  * Forms Authentication
+  * Windows Authentication
+  * OpenID Authentication
 
 = User Activity =
 
@@ -23,6 +27,8 @@
   * Description
   * Components
   * Lookup Values
+  * Public or Private
+  * Enable or Disable Features
 
 = Multiple Projects =
 
@@ -89,3 +95,10 @@
   * Create Forums, Discussions, Replies
   * Edit Forums, Discussions, Replies
   * Delete Forums, Discussions, Replies
+
+= Custom Stuff =
+
+  * Custom Fields
+  * Custom Lookup Values
+  * Custom Themes/Skins
+  * Custom Homepage
