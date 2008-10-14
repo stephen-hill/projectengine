@@ -12,12 +12,22 @@
   * User Logout
   * User Permissions
 
+= User Activity =
+
+  * Browsing and Filtering
+  * Timeline Graph
+
 = Project/Software Settings =
 
   * Name
   * Description
   * Components
   * Lookup Values
+
+= Multiple Projects =
+
+  * Database per Project
+  * Master Database to Control Projects
 
 = Wiki =
 
@@ -47,6 +57,10 @@
   * File history
   * Link to Milestone
 
+= Installation =
+
+  * Install Scripts
+
 = Tasks or Todo List =
 
   * New Task
@@ -56,6 +70,12 @@
   * Task Start
   * Task End
 
+= Milestones =
+
+  * Add Milestone
+  * Edit Milestone
+  * Delete Milestone
+
 = Code Repository Browsing =
 
   * Browse Directories
@@ -63,3 +83,9 @@
   * Browse Commit History
   * SVN Support
   * GIT Support
+
+= Forum =
+
+  * Create Forums, Discussions, Replies
+  * Edit Forums, Discussions, Replies
+  * Delete Forums, Discussions, Replies
