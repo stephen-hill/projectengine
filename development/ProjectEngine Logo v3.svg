@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2273.3999"
+   height="1041.3"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="ProjectEngine Logo v3.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="P:\development\ProjectEngine Logo v3.png"
+   inkscape:export-xdpi="25.34"
+   inkscape:export-ydpi="25.34">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3302"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3299"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient4653">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4655" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4657" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2390"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#0a1c39"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.2507065"
+     inkscape:cx="1202.0845"
+     inkscape:cy="743.8099"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     units="in" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-116.26209,60.727452)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2396"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+         id="flowRegion2398"><rect
+           id="rect2400"
+           width="490.90909"
+           height="87.5"
+           x="102.27273"
+           y="-76.360062" /></flowRegion><flowPara
+         id="flowPara2402" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3177"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Diavlo Book;-inkscape-font-specification:Diavlo Book"><flowRegion
+         id="flowRegion3179"><rect
+           id="rect3181"
+           width="62.5"
+           height="118.18182"
+           x="422.72726"
+           y="-332.04187" /></flowRegion><flowPara
+         id="flowPara3183" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2439"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Diavlo Book;-inkscape-font-specification:Diavlo Book"
+       transform="translate(198.85138,106.57576)"><flowRegion
+         id="flowRegion2441"><rect
+           id="rect2443"
+           width="2073.2371"
+           height="625.0824"
+           x="2.8284271"
+           y="925.33667"
+           style="font-size:72px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara2445"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial">Version 3</flowPara><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara2447" /><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara2449">Add a dark blue background</flowPara><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara5216">Increase the line height by from 75% to 77%</flowPara><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara5218">Added a joining line between the J and E</flowPara><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara5220">Align logo and text to the bottom.</flowPara><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara5222">Decreased lean.</flowPara><flowPara
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara3284" /></flowRoot>    <g
+       id="g5171"
+       transform="matrix(1.0313726,0,0,1.0313726,-74.399907,-28.22515)">
+      <g
+         transform="translate(2.3209866e-6,-5.8611936e-5)"
+         id="g5133">
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.46314001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 529.71413,418.60645 L 438.45488,415.8128 L 219.30845,387.25549 L 219.92926,381.35777 L 250.96983,312.13732 L 530.02453,399.3613 L 529.71413,418.60645 z"
+           id="path3205"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#path3205"
+           id="use4669"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.774246,-105.94693)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4669"
+           id="use4671"
+           transform="matrix(0.9848077,0.1736482,-0.1736482,0.9848077,89.789614,-105.89773)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4671"
+           id="use4673"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.778328,-105.89369)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4673"
+           id="use4675"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.770277,-105.89253)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4675"
+           id="use4677"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.790382,-105.93637)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4677"
+           id="use4679"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.80906,-105.87765)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4679"
+           id="use4681"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.797731,-105.84156)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4681"
+           id="use4683"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.772965,-105.87141)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4683"
+           id="use4685"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.809164,-105.86461)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4685"
+           id="use4687"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.797273,-105.812)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4687"
+           id="use4689"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.770566,-105.80649)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4689"
+           id="use4691"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.762762,-105.80706)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4691"
+           id="use4693"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.770894,-105.8253)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4693"
+           id="use4695"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.780289,-105.81087)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4695"
+           id="use4697"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.751521,-105.81862)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4697"
+           id="use4699"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.710255,-106.48551)"
+           width="1052.3622"
+           height="744.09448"
+           style="fill:none;fill-opacity:1"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4699"
+           id="use4701"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,90.188338,-106.82771)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4701"
+           id="use4703"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.499151,-106.55094)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4703"
+           id="use4705"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.68051,-105.78369)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4705"
+           id="use4707"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.664902,-105.81799)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4707"
+           id="use4709"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.676977,-105.83226)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4709"
+           id="use4711"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.686019,-105.81597)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4711"
+           id="use4713"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.682104,-105.81753)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4713"
+           id="use4715"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.639147,-105.82829)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4715"
+           id="use4717"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.692454,-105.88338)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4717"
+           id="use4719"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.641001,-105.86792)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4719"
+           id="use4721"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.654855,-105.85465)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4721"
+           id="use4723"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.692222,-105.89803)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4723"
+           id="use4725"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.682932,-105.9201)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4725"
+           id="use4727"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.671386,-105.94443)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4727"
+           id="use4729"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.671655,-105.9039)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4729"
+           id="use4731"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.681588,-105.91508)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4731"
+           id="use4733"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.702903,-105.90778)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4733"
+           id="use4735"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.74605,-105.94153)"
+           width="1052.3622"
+           height="744.09448"
+           inkscape:export-filename="C:\Documents and Settings\stephen.APACHE\Desktop\use4737.png"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use4735"
+           id="use4737"
+           transform="matrix(0.9848078,0.1736482,-0.1736482,0.9848078,89.723465,-105.907)"
+           width="1052.3622"
+           height="744.09448"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           inkscape:export-xdpi="129.46001"
+           inkscape:export-ydpi="129.46001" />
+      </g>
+      <g
+         transform="matrix(0.9204531,0,0,0.9204531,89.516308,122.13468)"
+         id="g5126">
+        <text
+           xml:space="preserve"
+           style="font-size:446.24874878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:76.99999809%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Walkway Oblique Black;-inkscape-font-specification:Walkway Oblique Black"
+           x="1116.8419"
+           y="421.2532"
+           id="text5815"
+           sodipodi:linespacing="76.999998%"><tspan
+             sodipodi:role="line"
+             id="tspan5817"
+             x="1116.8419"
+             y="421.2532"
+             style="font-size:446.24874878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:76.99999809%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Walkway Oblique Black;-inkscape-font-specification:Walkway Oblique Black">Project</tspan><tspan
+             sodipodi:role="line"
+             x="1116.8419"
+             y="764.86475"
+             id="tspan5819"
+             style="font-size:446.24874878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:76.99999809%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Walkway Oblique Black;-inkscape-font-specification:Walkway Oblique Black">Engine</tspan></text>
+        <path
+           style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:19.28236389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1424.0371,472.39499 C 1675.1018,470.65794 1686.0225,471.79127 1697.6586,471.5397"
+           id="path5122"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:25.05362129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1416.4427,488.55732 C 1672.4522,489.47274 1685.5674,488.52566 1685.5674,488.52566"
+           id="path5124"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+</svg>
