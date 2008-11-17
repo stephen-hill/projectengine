@@ -1,6 +1,10 @@
 #summary Feature of the web application in order of priority.
 #labels Featured,Phase-Requirements
 
+= Directory Structure =
+
+  * Implement parts of the PhpCake directory structure.
+
 = Friendly URL's =
 
   * /Page/Action = /Pages/Page_Action.aspx
