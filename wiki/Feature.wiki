@@ -97,11 +97,17 @@
   * SVN Support
   * GIT Support
 
-= Forum =
+= Discussion Forums =
 
   * Create Forums, Discussions, Replies
   * Edit Forums, Discussions, Replies
   * Delete Forums, Discussions, Replies
+
+= Chat Rooms =
+
+  * Create Rooms
+  * Chat
+  * Private and Public Rooms
 
 = Custom Stuff =
 
