@@ -5,6 +5,8 @@
 
   * Implement parts of the PhpCake directory structure.
 
+= Database Structure =
+
 = Friendly URL's =
 
   * /Page/Action = /Pages/Page_Action.aspx
