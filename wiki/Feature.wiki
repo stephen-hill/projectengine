@@ -3,30 +3,16 @@
 
 = Directory Structure =
 
-  * Implement parts of the PhpCake directory structure:
-
-  * Config
-  * Controllers
-  * Models
-  * Temp
-    * Cache
-      * Models
-      * Persistent
-      * Views
-    * Logs
-    * Sessions
-    * Tests
-  * Views
-    * Elements
-    * Errors
-    * Helpers
-    * Layouts
-    * Pages
-  * Client
-    * Stylesheets
-    * Files
-    * Images
-    * Javascript
+  * system
+    * icons
+    * images
+    * install
+    * logos
+    * rewrite
+    * temp
+    * themes
+    * views
+    * wysiwyg
 
 = Database Structure =
 
